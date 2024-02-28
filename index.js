@@ -29,5 +29,5 @@ app.post("/v1/chat/completions", chatCompletions);
 
 // Start server
 app.listen(SERVER_PORT, () => {
-    console.log(`Listening on ${SERVER_PORT} ...`);
+    console.log(`[API] Iniciando...`);
 });
