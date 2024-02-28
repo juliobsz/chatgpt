@@ -1,5 +1,3 @@
-require('dotenv').config();
-
 export const SERVER_PORT = 3000; // Server port
 export const DEBUG = false; // Debug mode
 
